@@ -1,0 +1,167 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/AdobeFnt21.lst
+FileLength:4538
+FileModTime:586370112
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexMono
+FamilyName:IBM Plex Mono
+StyleName:Regular
+MenuName:IBM Plex Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Mono
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/IBMPlexMono-Regular-V02.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62364
+FileModTime:535651115
+NameArray:0,Mac,4,IBM Plex Mono
+NameArray:0,Win,1,IBM Plex Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansHeavy-06-25Interpol
+FamilyName:Nunito Sans Heavy-06
+StyleName:25 Interpol
+MenuName:Nunito Sans Heavy-06 25 Interpol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Heavy-06 25 Interpol
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/NunitoSansHeavy-06-25Interpol.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119396
+FileModTime:585157697
+NameArray:0,Mac,4,Nunito Sans Heavy-06 25 Interpol
+NameArray:0,Win,1,Nunito Sans Heavy-06 25 Interpol
+NameArray:0,Win,16,Nunito Sans Heavy-06
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansHeavy-06-50Interpol
+FamilyName:Nunito Sans Heavy-06
+StyleName:50 Interpol
+MenuName:Nunito Sans Heavy-06 50 Interpol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Heavy-06 50 Interpol
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/NunitoSansHeavy-06-50Interpol.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119164
+FileModTime:585157697
+NameArray:0,Mac,4,Nunito Sans Heavy-06 50 Interpol
+NameArray:0,Win,1,Nunito Sans Heavy-06 50 Interpol
+NameArray:0,Win,16,Nunito Sans Heavy-06
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansHeavy-06-75Interpol
+FamilyName:Nunito Sans Heavy-06
+StyleName:75 Interpol
+MenuName:Nunito Sans Heavy-06 75 Interpol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Heavy-06 75 Interpol
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/NunitoSansHeavy-06-75Interpol.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118840
+FileModTime:585157697
+NameArray:0,Mac,4,Nunito Sans Heavy-06 75 Interpol
+NameArray:0,Win,1,Nunito Sans Heavy-06 75 Interpol
+NameArray:0,Win,16,Nunito Sans Heavy-06
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansHeavy-06-M1000optical
+FamilyName:Nunito Sans Heavy-06
+StyleName:M 1000 optical
+MenuName:Nunito Sans Heavy-06 M 1000 optical
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Heavy-06 M 1000 optical
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/NunitoSansHeavy-06-M1000optical.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119388
+FileModTime:585157697
+NameArray:0,Mac,18,Nunito Heavy-06 M 1000 optical
+NameArray:0,Mac,4,Nunito Sans Heavy-06 M 1000 optical
+NameArray:0,Win,1,Nunito Sans Heavy-06 M 1000 optical
+NameArray:0,Win,16,Nunito Sans Heavy-06
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansTest-Heavy
+FamilyName:Nunito Sans Test
+StyleName:Heavy
+MenuName:Nunito Sans Test Heavy
+StyleBits:0
+WeightClass:950
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Test Heavy
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_02 Folder/Document fonts/NunitoSansTest-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119820
+FileModTime:586365012
+NameArray:0,Mac,4,Nunito Sans Test Heavy
+NameArray:0,Win,1,Nunito Sans Test Heavy
+NameArray:0,Win,16,Nunito Sans Test
+%EndFont
+

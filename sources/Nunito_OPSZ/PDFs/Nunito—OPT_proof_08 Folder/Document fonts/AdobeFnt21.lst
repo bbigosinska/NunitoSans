@@ -1,0 +1,140 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_08 Folder/Document fonts/AdobeFnt21.lst
+FileLength:3614
+FileModTime:586370903
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexMono
+FamilyName:IBM Plex Mono
+StyleName:Regular
+MenuName:IBM Plex Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Mono
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_08 Folder/Document fonts/IBMPlexMono-Regular-V02.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62364
+FileModTime:535651115
+NameArray:0,Mac,4,IBM Plex Mono
+NameArray:0,Win,1,IBM Plex Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansHeavy-07-M1000yak
+FamilyName:Nunito Sans Heavy-07
+StyleName:M 1000 yak
+MenuName:Nunito Sans Heavy-07 M 1000 yak
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Heavy-07 M 1000 yak
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_08 Folder/Document fonts/NunitoSansHeavy-07-M1000yak.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118292
+FileModTime:585928598
+NameArray:0,Mac,4,Nunito Sans Heavy-07 M 1000 yak
+NameArray:0,Win,1,Nunito Sans Heavy-07 M 1000 yak
+NameArray:0,Win,16,Nunito Sans Heavy-07
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansMICRO-MMICRO52
+FamilyName:Nunito Sans MICRO
+StyleName:M MICRO 52
+MenuName:Nunito Sans MICRO M MICRO 52
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans MICRO M MICRO 52
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_08 Folder/Document fonts/NunitoSansMICRO-MMICRO52.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113736
+FileModTime:586182908
+NameArray:0,Mac,4,Nunito Sans MICRO M MICRO 52
+NameArray:0,Win,1,Nunito Sans MICRO M MICRO 52
+NameArray:0,Win,16,Nunito Sans MICRO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansTest-ExtraLight
+FamilyName:Nunito Sans Test
+StyleName:ExtraLight
+MenuName:Nunito Sans Test ExtraLight
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Test ExtraLight
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_08 Folder/Document fonts/NunitoSansTest-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:116332
+FileModTime:586365011
+NameArray:0,Mac,4,Nunito Sans Test ExtraLight
+NameArray:0,Win,1,Nunito Sans Test ExtraLight
+NameArray:0,Win,16,Nunito Sans Test
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansTest-Heavy
+FamilyName:Nunito Sans Test
+StyleName:Heavy
+MenuName:Nunito Sans Test Heavy
+StyleBits:0
+WeightClass:950
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Test Heavy
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_08 Folder/Document fonts/NunitoSansTest-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119820
+FileModTime:586365012
+NameArray:0,Mac,4,Nunito Sans Test Heavy
+NameArray:0,Win,1,Nunito Sans Test Heavy
+NameArray:0,Win,16,Nunito Sans Test
+%EndFont
+

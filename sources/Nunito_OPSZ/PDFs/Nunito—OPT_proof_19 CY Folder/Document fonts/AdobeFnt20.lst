@@ -1,0 +1,192 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/AdobeFnt20.lst
+FileLength:5025
+FileModTime:591872234
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IBMPlexMono
+FamilyName:IBM Plex Mono
+StyleName:Regular
+MenuName:IBM Plex Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:IBM Plex Mono
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/IBMPlexMono-Regular-V02.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62364
+FileModTime:535651115
+NameArray:0,Mac,4,IBM Plex Mono
+NameArray:0,Win,1,IBM Plex Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansBase-M0
+FamilyName:Nunito Sans Base
+StyleName:M 0
+MenuName:Nunito Sans Base M 0
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Base M 0
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/NunitoSansBase-M0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94740
+FileModTime:591870383
+NameArray:0,Mac,4,Nunito Sans Base M 0
+NameArray:0,Win,1,Nunito Sans Base M 0
+NameArray:0,Win,16,Nunito Sans Base
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansBase-M1000
+FamilyName:Nunito Sans Base
+StyleName:M 1000
+MenuName:Nunito Sans Base M 1000
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Base M 1000
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/NunitoSansBase-M1000.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94540
+FileModTime:591870383
+NameArray:0,Mac,4,Nunito Sans Base M 1000
+NameArray:0,Win,1,Nunito Sans Base M 1000
+NameArray:0,Win,16,Nunito Sans Base
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansBase-M500
+FamilyName:Nunito Sans Base
+StyleName:M 500
+MenuName:Nunito Sans Base M 500
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans Base M 500
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/NunitoSansBase-M500.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97556
+FileModTime:591870383
+NameArray:0,Mac,4,Nunito Sans Base M 500
+NameArray:0,Win,1,Nunito Sans Base M 500
+NameArray:0,Win,16,Nunito Sans Base
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansMICRO-M1000MICRO
+FamilyName:Nunito Sans MICRO
+StyleName:M 1000 MICRO
+MenuName:Nunito Sans MICRO M 1000 MICRO
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans MICRO M 1000 MICRO
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/NunitoSansMICRO-M1000MICRO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96092
+FileModTime:591871463
+NameArray:0,Mac,4,Nunito Sans MICRO M 1000 MICRO
+NameArray:0,Win,1,Nunito Sans MICRO M 1000 MICRO
+NameArray:0,Win,16,Nunito Sans MICRO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansMICRO-M500MICRO
+FamilyName:Nunito Sans MICRO
+StyleName:M 500 MICRO
+MenuName:Nunito Sans MICRO M 500 MICRO
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans MICRO M 500 MICRO
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/NunitoSansMICRO-M500MICRO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98088
+FileModTime:591871463
+NameArray:0,Mac,4,Nunito Sans MICRO M 500 MICRO
+NameArray:0,Win,1,Nunito Sans MICRO M 500 MICRO
+NameArray:0,Win,16,Nunito Sans MICRO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NunitoSansMICRO-M52MICRO
+FamilyName:Nunito Sans MICRO
+StyleName:M 52 MICRO
+MenuName:Nunito Sans MICRO M 52 MICRO
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Nunito Sans MICRO M 52 MICRO
+WritingScript:Roman
+OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/NunitoSansMICRO-M52MICRO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95484
+FileModTime:591871463
+NameArray:0,Mac,4,Nunito Sans MICRO M 52 MICRO
+NameArray:0,Win,1,Nunito Sans MICRO M 52 MICRO
+NameArray:0,Win,16,Nunito Sans MICRO
+%EndFont
+

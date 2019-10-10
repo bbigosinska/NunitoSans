@@ -6,7 +6,7 @@ Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:/Users/barbarabigosinska/Documents/GitHub/bbigosinska/NunitoSans/sources/Nunito_OPSZ/PDFs/Nunito—OPT_proof_19 CY Folder/Document fonts/AdobeFnt20.lst
 FileLength:5025
-FileModTime:591872234
+FileModTime:591872682
 %EndFont
 
 %BeginFont
@@ -132,7 +132,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:96092
-FileModTime:591871463
+FileModTime:591872570
 NameArray:0,Mac,4,Nunito Sans MICRO M 1000 MICRO
 NameArray:0,Win,1,Nunito Sans MICRO M 1000 MICRO
 NameArray:0,Win,16,Nunito Sans MICRO
@@ -157,8 +157,8 @@ UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
-FileLength:98088
-FileModTime:591871463
+FileLength:98080
+FileModTime:591872570
 NameArray:0,Mac,4,Nunito Sans MICRO M 500 MICRO
 NameArray:0,Win,1,Nunito Sans MICRO M 500 MICRO
 NameArray:0,Win,16,Nunito Sans MICRO
@@ -184,7 +184,7 @@ isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:95484
-FileModTime:591871463
+FileModTime:591872570
 NameArray:0,Mac,4,Nunito Sans MICRO M 52 MICRO
 NameArray:0,Win,1,Nunito Sans MICRO M 52 MICRO
 NameArray:0,Win,16,Nunito Sans MICRO
